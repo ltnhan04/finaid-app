@@ -1,4 +1,3 @@
-# Expo File-based Routing and Naming Conventions
 
 ## Naming Conventions
 
