@@ -47,6 +47,18 @@ For more details, check out the [📖 official Expo documentation on file-based 
 🐛 git checkout -b bug/fix-header-overlap
 ⚡ git checkout -b hotfix/critical-issue-123
 ```
+---
+
+### 4.3. 📌 **Branch Type Reference**
+
+| **Branch Type** | **Purpose**                                                 |
+| --------------- | ----------------------------------------------------------- |
+| **feature** ✨   | For adding new features or functionality.                   |
+| **bug** 🐛       | For fixing bugs or issues.                                  |
+| **hotfix** 🚑    | For critical fixes that must be resolved immediately.       |
+| **release** 🚀   | For preparing a release with tested and finalized features. |
+| **chore** 🧹     | For maintenance tasks such as dependency updates.           |
+
 
 ---
 
@@ -133,18 +145,6 @@ For more details, check out the [📖 official Expo documentation on file-based 
 🚀 git push origin feature/user-authentication
 ```
 
----
 
-## 8. 📌 **Branch Type Reference**
-
-| **Branch Type** | **Purpose**                                                 |
-| --------------- | ----------------------------------------------------------- |
-| **feature** ✨   | For adding new features or functionality.                   |
-| **bug** 🐛       | For fixing bugs or issues.                                  |
-| **hotfix** 🚑    | For critical fixes that must be resolved immediately.       |
-| **release** 🚀   | For preparing a release with tested and finalized features. |
-| **chore** 🧹     | For maintenance tasks such as dependency updates.           |
-
----
 
 
